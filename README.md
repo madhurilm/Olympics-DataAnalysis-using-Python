@@ -1,4 +1,5 @@
 # Olympics DataAnalysis
+![Project Banner](./assets/OlympicsOpeningCeremony020522.png)
 ### Overview
 The Olympics dataset comprises information on athletes participating in various Olympic Games over the years. It includes details such as athlete ID, name, sex, age, physical attributes (height, weight), team, games participated in, year, season, city, sport, event, medals won, and additional information like region and notes
 ### Data Source
